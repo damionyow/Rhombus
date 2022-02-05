@@ -41,7 +41,6 @@ rLine +="</p>";
 document.getElementById("upLeft").innerHTML = rLine;
 }
 
-}
 
 function upRight(pHeight, pColorEven, pColorOdd, pSymbol){
 var rLine ="";
